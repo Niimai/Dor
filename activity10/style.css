@@ -1,0 +1,40 @@
+                                    .item {
+                                    border: 1px solid black;
+                                }
+                                
+                                #flexcontainer5 .item {
+                                    max-width: 70px;
+                                }
+                                
+                                .huge {
+                                    font-size: 2em;
+                                    font-weight: bold;
+                                }
+                                
+                                #header {
+                                    margin-left: 62px;
+                                }
+                                
+                                .topmenu-option {
+                                    background-color: rgb(255, 255, 255);
+                                    border-radius: 6px;
+                                    color: #333;
+                                }
+                                
+                                .topmenu-submenu {
+                                    float: left;
+                                }
+                                
+                                .column {
+                                    border-top: 1px solid gray;
+                                    background: #9599a8;
+                                }
+                                
+                                .border_left {
+                                    border-left: 1px solid gray;
+                                    border-top: 1px solid gray;
+                                }
+                                
+                                span:hover {
+                                    color: #615c5b;
+                                    cursor: pointer;
